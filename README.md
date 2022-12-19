@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a passionate frontend engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **BaaS (Backend as Service)**
-
 - 💬 Ask me about **react, javascript, typescript**
 
 - 📫 How to reach me **gmc103709@gmail.com**
