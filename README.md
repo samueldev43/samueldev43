@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **react, javascript, typescript**
 
-- 📫 How to reach me **gmc103709@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-lopes-291a5717a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel lopes" height="30" width="40" /></a>
