@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">I'm a passionate software developer from Brazil</h3>
-
-- 💬 Ask me about **react, javascript, typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
